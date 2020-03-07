@@ -11,12 +11,12 @@ This folder contains the results of two annotators which contain questions from 
 - [developer need instances classification](). 
 This file contains the group result of developer need sentences. In the json file, key "post_id" represents post ID in Stack Overflow, "scenario" represents the developer need types, "annotation_1" represents the sentences group result of the first annotator, "annotation_2" represents the sentences group result of the second annotator, "kappa" represent the kappa value.
 
-## API identification
+## API Identification
 - [code for API identification](). 
 This folder contains codes for API identification. Folder "text_based" contains scripts for extracting API from text. Folder "text_based" contains scripts for extracting API from code snippets, stack traces. Folder "combined" combined all extracting ways. We hide some Python libraries which released by ourselves in these scripts for reasons of anonymity.
 
-## Annotated data expansion
-- [annotated data expansion](). This folder contains 17 files corresponding to 17 relevant information types. In each file, the column "url" represents Stack Overflow url for postd, "sentence" represents the current sentence for annotating, "title" and "body" are the Stack Overflow question title and body, "arbitration" represents the arbitration result.
+## Annotated Data Expansion
+- [annotated data expansion](). This folder contains 17 files corresponding to 17 relevant information types. In each csv file, the column "url" represents Stack Overflow url for postd, "sentence" represents the current sentence for annotating, "title" and "body" are the Stack Overflow question title and body, "arbitration" represents the arbitration result.
  
 
 It is hereby stated that due to anonymity, some information is hidden and will be disclosed in the future
