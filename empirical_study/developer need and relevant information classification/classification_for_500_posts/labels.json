@@ -1,0 +1,210 @@
+[
+  {
+    "id": 538,
+    "text": "api_compare_1+comparision scenario",
+    "prefix_key": null,
+    "suffix_key": "a",
+    "background_color": "#55b5bc",
+    "text_color": "#000"
+  },
+  {
+    "id": 539,
+    "text": "api_compare_1+comparision subject",
+    "prefix_key": "ctrl",
+    "suffix_key": "a",
+    "background_color": "#615117",
+    "text_color": "#fff"
+  },
+  {
+    "id": 540,
+    "text": "alternative_solution_1+current solution",
+    "prefix_key": "shift",
+    "suffix_key": "a",
+    "background_color": "#fe8334",
+    "text_color": "#000"
+  },
+  {
+    "id": 541,
+    "text": "alternative_solution_1+alternative description",
+    "prefix_key": "ctrl shift",
+    "suffix_key": "a",
+    "background_color": "#5ec333",
+    "text_color": "#fff"
+  },
+  {
+    "id": 542,
+    "text": "non-functional_improvement_1+suboptimal implementation 1",
+    "prefix_key": null,
+    "suffix_key": "c",
+    "background_color": "#9d70f3",
+    "text_color": "#000"
+  },
+  {
+    "id": 543,
+    "text": "non-functional_improvement_1+suboptimal implementation 2",
+    "prefix_key": "ctrl",
+    "suffix_key": "c",
+    "background_color": "#010380",
+    "text_color": "#fff"
+  },
+  {
+    "id": 544,
+    "text": "non-functional_improvement_1+suboptimal implementation 3",
+    "prefix_key": "shift",
+    "suffix_key": "c",
+    "background_color": "#c34599",
+    "text_color": "#000"
+  },
+  {
+    "id": 545,
+    "text": "non-functional_improvement_1+implemented functionality",
+    "prefix_key": "ctrl shift",
+    "suffix_key": "c",
+    "background_color": "#ee3e34",
+    "text_color": "#000"
+  },
+  {
+    "id": 546,
+    "text": "functional_improvement_1+actual result 1",
+    "prefix_key": null,
+    "suffix_key": "d",
+    "background_color": "#1e77f7",
+    "text_color": "#000"
+  },
+  {
+    "id": 547,
+    "text": "functional_improvement_1+insufficient implementation 1",
+    "prefix_key": "ctrl",
+    "suffix_key": "d",
+    "background_color": "#f264fc",
+    "text_color": "#000"
+  },
+  {
+    "id": 548,
+    "text": "functional_improvement_1+expect result",
+    "prefix_key": "shift",
+    "suffix_key": "d",
+    "background_color": "#c12ae8",
+    "text_color": "#000"
+  },
+  {
+    "id": 550,
+    "text": "error_handling_1+error occasion",
+    "prefix_key": "ctrl",
+    "suffix_key": "e",
+    "background_color": "#4c7e83",
+    "text_color": "#fff"
+  },
+  {
+    "id": 551,
+    "text": "error_handling_1+error type",
+    "prefix_key": "shift",
+    "suffix_key": "e",
+    "background_color": "#9e7512",
+    "text_color": "#fff"
+  },
+  {
+    "id": 552,
+    "text": "api_usage_learning_1+usage scenario",
+    "prefix_key": null,
+    "suffix_key": "h",
+    "background_color": "#b49242",
+    "text_color": "#fff"
+  },
+  {
+    "id": 553,
+    "text": "api_usage_learning_1+used subject",
+    "prefix_key": "ctrl",
+    "suffix_key": "h",
+    "background_color": "#26e057",
+    "text_color": "#000"
+  },
+  {
+    "id": 554,
+    "text": "not_api_related",
+    "prefix_key": null,
+    "suffix_key": "n",
+    "background_color": "#a19e44",
+    "text_color": "#fff"
+  },
+  {
+    "id": 555,
+    "text": "rationale_analysis_1+rationale question",
+    "prefix_key": null,
+    "suffix_key": "r",
+    "background_color": "#4e43b4",
+    "text_color": "#fff"
+  },
+  {
+    "id": 556,
+    "text": "rationale_analysis_2+rationale question",
+    "prefix_key": "ctrl",
+    "suffix_key": "r",
+    "background_color": "#19f9ad",
+    "text_color": "#000"
+  },
+  {
+    "id": 557,
+    "text": "rationale_analysis_3+rationale question",
+    "prefix_key": "shift",
+    "suffix_key": "r",
+    "background_color": "#b73cff",
+    "text_color": "#000"
+  },
+  {
+    "id": 558,
+    "text": "rationale_analysis_4+rationale question",
+    "prefix_key": "ctrl shift",
+    "suffix_key": "r",
+    "background_color": "#5748b8",
+    "text_color": "#000"
+  },
+  {
+    "id": 559,
+    "text": "functionality_implementation_1+desired functionality",
+    "prefix_key": null,
+    "suffix_key": "s",
+    "background_color": "#6dccbe",
+    "text_color": "#000"
+  },
+  {
+    "id": 560,
+    "text": "functionality_implementation_2+desired functionality",
+    "prefix_key": "ctrl",
+    "suffix_key": "s",
+    "background_color": "#f916f3",
+    "text_color": "#000"
+  },
+  {
+    "id": 575,
+    "text": "non-functional_improvement_1+improvement",
+    "prefix_key": null,
+    "suffix_key": "z",
+    "background_color": "#FF0000",
+    "text_color": "#ffffff"
+  },
+  {
+    "id": 576,
+    "text": "functional_improvement_1+insufficient implementation 2",
+    "prefix_key": null,
+    "suffix_key": "y",
+    "background_color": "#A700FF",
+    "text_color": "#ffffff"
+  },
+  {
+    "id": 637,
+    "text": "error_handling_1+erroneous implementation",
+    "prefix_key": null,
+    "suffix_key": "w",
+    "background_color": "#A700FF",
+    "text_color": "#ffffff"
+  },
+  {
+    "id": 638,
+    "text": "functional_improvement_1+actual result 2",
+    "prefix_key": null,
+    "suffix_key": "j",
+    "background_color": "#009688",
+    "text_color": "#ffffff"
+  }
+]
