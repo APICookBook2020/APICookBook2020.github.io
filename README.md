@@ -11,7 +11,7 @@ This folder contains the results of two annotators which contain questions from 
 - [developer need instances classification](). 
 This file contains the group result of developer need sentences. In the json file, key "post_id" represents post ID in Stack Overflow, "scenario" represents the developer need types, "annotation_1" represents the sentences group result of the first annotator, "annotation_2" represents the sentences group result of the second annotator, "kappa" represent the kappa value.
 
-## API identificationrepresents
+## API identification
 - [code for API identification](). 
 This folder contains codes for API identification. Folder "text_based" contains scripts for extracting API from text. Folder "text_based" contains scripts for extracting API from code snippets, stack traces. Folder "combined" combined all extracting ways. We hide some Python libraries which released by ourselves in these scripts for reasons of anonymity.
 
