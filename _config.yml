@@ -1,1 +1,3 @@
-theme: jekyll-theme-tactile
+title: [APICookBook Replication Package]
+description: [The replication package for Identification and Applications of API-related Developer Needs in Stack Overflow]
+theme: jekyll-theme-cayman
