@@ -2,7 +2,7 @@
 
 ## Empirical Study
 
-- [266 api related posts among 500 top voted posts](https://github.com/APICookBook2020/APICookBook2020.github.io/blob/master/empirical_study/post_whether_api_related_fix_500.csv).
+- [266 API related posts among 500 top voted posts](https://github.com/APICookBook2020/APICookBook2020.github.io/blob/master/empirical_study/post_whether_api_related_fix_500.csv).
 This csv file is the result of posts analysis. In the csv files, the column "url" represents Stack Overflow url for posts, "title" represents the title of corresponding post, "annotator_1" represents the annotation of the first annotator, "annotator_2" represents the annotator_1 of the second annotator, "arbitration" represents the arbitration result.
 
 - [developer need and relevant information analysis of 266 posts](https://github.com/APICookBook2020/APICookBook2020.github.io/tree/master/empirical_study/developer%20need%20and%20relevant%20information%20classification/classification_for_500_posts).
@@ -14,7 +14,7 @@ This folder contains the results of two annotators which contain questions from 
 
 
 
-- [developer need instances classification](https://github.com/APICookBook2020/APICookBook2020.github.io/tree/master/empirical_study/developer%20need%20instances%20classification). This file contains the group result of developer need sentences. In the json file, key "post_id" represents post ID in Stack Overflow, "scenario" represents the developer need types, "annotation_1" represents the sentences group result of the first annotator, "annotation_2" represents the sentences group result of the second annotator, "kappa" represent the kappa value.
+- [developer need instances classification](https://github.com/APICookBook2020/APICookBook2020.github.io/tree/master/empirical_study/developer%20need%20instances%20classification). This file contains the group result of developer need sentences. In the json file, key "post_id" represents post ID in Stack Overflow, "developer need type" represents the developer need types, "annotation_1" represents the sentences group result of the first annotator, "annotation_2" represents the sentences group result of the second annotator, "kappa" represent the kappa value.
 
 
 
