@@ -1,4 +1,4 @@
-# Replication Package of Identification and Applications of API-related Developer Needs in Stack Overflow
+# Replication Package of API-related Developer Needs in Stack Overflow
 
 ## Empirical Study
 
